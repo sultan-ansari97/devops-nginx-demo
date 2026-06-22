@@ -5,5 +5,7 @@ Download all the lastest package
 Installl Nnginx only  
 `sudo apt install nginx`
 
-Start the nginx service
+Start the nginx service  
 `systemstl start nginx`
+
+Happy Learning!!
