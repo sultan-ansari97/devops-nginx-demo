@@ -7,3 +7,5 @@ else
     echo "Nginx is not installed"
 fi
 
+echo "==============Installing nginx===="
+
