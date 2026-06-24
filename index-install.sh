@@ -9,3 +9,6 @@ fi
 
 echo "==============Installing nginx===="
 
+This is the good feature
+adding log in feature
+
